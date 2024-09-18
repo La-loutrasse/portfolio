@@ -118,7 +118,7 @@
 }
 
 .project-item > a:hover .project-item-icon-box {
-  --scale: 1;
+  --scale: 2;
   opacity: 1;
 }
 
